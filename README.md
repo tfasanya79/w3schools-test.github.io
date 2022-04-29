@@ -4,4 +4,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-Just trying to learnd something new.
+Just trying to learn something new.
+
+made some spelling errors, and are now corrected.
